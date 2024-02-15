@@ -1,0 +1,1 @@
+Impostare la KMeans con il parametro init a k-means++ permette di usare un metodo che ottimizza la distanza tra i centroidi generati casualmente, perchè se fossero troppo vicini potrebbe causare problemi
